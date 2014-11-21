@@ -1,0 +1,7 @@
+tools\RegistrationData.class
+DBApi\ChatMessage.class
+DBApi\AutenteficationData.class
+DBApi\PrivateMessage.class
+managers\ChatManager.class
+WebApi\MessageService.class
+DBApi\User.class
